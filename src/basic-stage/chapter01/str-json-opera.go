@@ -14,7 +14,7 @@ import (
  */
 
 func main() {
-
+	strOpera()
 }
 
 //字符串操作
